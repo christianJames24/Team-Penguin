@@ -4,6 +4,6 @@
 Email: 2232469@champlaincollege.qc.ca
 Personal: christianvehicle@gmail.com
 
-#ID:
-Email:
-Personal:
+#ID: 2232694 
+Email: 2232694@champlaincollege.qc.ca
+Personal: dkanat822@gmail.com
